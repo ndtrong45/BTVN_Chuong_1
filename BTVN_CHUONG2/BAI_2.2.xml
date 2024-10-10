@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <masv>23174600084</masv>
+    <tensv>Nguyễn Đình Trọng</tensv>
+    <namsinh>2005</namsinh>
+    <lop>DHKL17A2HN</lop>
+    <gioitinh>Nam</gioitinh>
+  </student>
+  <student>
+    </student>
+</students>
