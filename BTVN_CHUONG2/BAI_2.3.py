@@ -15,5 +15,4 @@ def parse_xml(file_name):
     print("Lương: ", salary)
     print("-------------------")
 
-# Gọi hàm để phân tích file
 parse_xml("sample.xml")
